@@ -498,7 +498,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=0e21da304a29298ceca1fdfd1e71e210:87de38cf3ed2bbcd5d89b63e571bfe21
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="716" tvg-name="DMAX" tvg-logo="http://linear-poster.astro.com.my/prod/logo/DMAX_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 KNOWLEDGE (ASTRO GO)",DMAX HD
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default_primary.mpd
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/2610/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=168bd815468639fe4528b4bf0141f310:775a654c0610811ad022329a68884de1
