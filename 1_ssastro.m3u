@@ -270,8 +270,8 @@ https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/aod.mpd
 https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/aec.mpd
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/2400/default_primary.mpd
 
-#EXTINF:-1 tvg-id="308" tvg-name="Astro QJ" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 CHINESE (ASTRO GO)", Astro Quan Jia HD
-http://perfecttv.net:8080/Perfecttv/Perfecttv/11
+#EXTINF:-1 tvg-id="308" tvg-name="QJ HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 CHINESE (ASTRO GO)", Astro Quan Jia HD
+http://31.42.187.37:25461/watchpad13158/1234/12290
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60507ef0dc9c813d5f8c7b2229412f10:c8a0f7e69bb31dfd475da26fc6c6003b
@@ -366,12 +366,12 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2305/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b8090c8361cc5cc5c1aac0ec2710de10:ca0d18538845bae2cb4f4a168036f174
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="413"  tvg-name="Astro Showcase" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/454_144.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MOVIES (ASTRO GO)",Astro Showcase 
+#EXTINF:-1 tvg-id="413"  tvg-name="Showcase" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/454_144.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MOVIES (ASTRO GO)",Astro Showcase 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ea4d51ade01bbf3946e0de973051ba10:f3266bec607f25879f48640f30f1c888
-#EXTINF:-1 tvg-id="404" tvg-name="Astro Boo" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png"group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MOVIES (ASTRO GO)",Astro Boo
+#EXTINF:-1 tvg-id="404" tvg-name="Boo" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png"group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MOVIES (ASTRO GO)",Astro Boo
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -389,7 +389,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a642dd4bf3ea782e19202adefb604b10:3f59355e15eed1bb219ea1687d55cfbb
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="321"  tvg-name="Celestial Classic Movies" tvg-logo="http://linear-poster.astro.com.my/prod/logo/CCM_v1.png"group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MOVIES (ASTRO GO)",Celestial Classic Movies
+#EXTINF:-1 tvg-id="321"  tvg-name="CCM" tvg-logo="http://linear-poster.astro.com.my/prod/logo/CCM_v1.png"group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MOVIES (ASTRO GO)",Celestial Classic Movies
 http://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_primary.mpd
 
 ==========================================
@@ -432,7 +432,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=346b9f41e2933748c8861f82932e0110:cf0cffb637b81598a27bd6b0d90d65a8
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="709" tvg-name="Asian Food Network" tvg-logo="http://linear-poster.astro.com.my/prod/logo/afn_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 LIFESTYLE (ASTRO GO)",Asian Food Network HD
+#EXTINF:-1 tvg-id="709" tvg-name="AFN" tvg-logo="http://linear-poster.astro.com.my/prod/logo/afn_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 LIFESTYLE (ASTRO GO)",Asian Food Network HD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/500/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -444,7 +444,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2d13c814df4a0c2ce488b2eda052d710:2dc2a7617bde2ab00136ee689c56d789
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="708" tvg-name="Food Network" tvg-logo="http://linear-poster.astro.com.my/prod/logo/FoodNetwork_2021.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 LIFESTYLE (ASTRO GO)",Food Network HD
+#EXTINF:-1 tvg-id="708" tvg-name="Food NTWk HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/FoodNetwork_2021.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 LIFESTYLE (ASTRO GO)",Food Network HD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2300/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -467,7 +467,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=22fc5baf47ae3b6322bc244206bbb210:db1ee2b8994b91aac65049ef3e493787
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="714"  tvg-name="Crime & Investigation" tvg-logo="http://linear-poster.astro.com.my/prod/logo/CI_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title=group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 KNOWLEDGE (ASTRO GO)",Crime & Investigation HD 
+#EXTINF:-1 tvg-id="714"  tvg-name="CI HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/CI_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title=group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 KNOWLEDGE (ASTRO GO)",Crime & Investigation HD 
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/2111/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
