@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml" refresh="1440" max-conn="1" refresh="24"
 
 
 #EXTINF:-1 tvg-id="701" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 SPORTS (ASTRO GO)" tvg-logo=" https://unifi.com.my/tv/sites/default/files/2023-02/unifisports-new.png ",Unifi Sports 1
